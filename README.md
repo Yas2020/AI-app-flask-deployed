@@ -41,3 +41,4 @@ Create a `server.py` that run a flask server wich renedrs a html page as templat
 Finally, Run the flask server (port 5000) and make single prediction. 
 
 ![alt text](images/Screenshot%202024-04-06%20at%206.05.28 PM.png)
+![alt text](images/Screenshot%202024-04-06%20at%209.02.09 PM.png)
